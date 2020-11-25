@@ -1,6 +1,3 @@
-import folium
-import folium.plugins as plugins
-from folium.plugins import HeatMapWithTime
 import pandas as pd
 # column_names = ['Liczba wypadków', 'Liczba zabitych', 'Liczba rannych', 'Rok',
 #                 'Warunki atmosferyczne', 'Rodzaj zdarzenia',
