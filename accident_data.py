@@ -56,9 +56,9 @@ df_map[['weather_conditions', 'date', 'count']].groupby(
     ['weather_conditions', 'date']).sum().sort_values('count', ascending=False)
 
 print('hello')
-print(df2.head)
+print(df2.head(3))
 
-df2['count'] = 1
+df2['count'] = 0
 df5 = df2[['district_commune', 'count']].groupby(['district_commune']).sum().sort_values('count', ascending=False)
 df5.shape
 df5.head
