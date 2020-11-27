@@ -1,3 +1,5 @@
 
-Bpython:S125"Remove this commented out code.(ğÆàøÿÿÿÿ8óøØÆà.
-Bpython:S125"Remove this commented out code.(­ÂŒĞşÿÿÿÿ8‡³Ôß.
+Xpython:S905-":Remove or refactor this statement; it has no side effects.(÷Ö8„ëÈà.
+Bpython:S125"Remove this commented out code.(ğÆàøÿÿÿÿ8óøØÆà.
+tpython:S1542("URename function "generateBaseMap" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ê÷‡”8„ëÈà.
+Bpython:S125"Remove this commented out code.(­ÂŒĞşÿÿÿÿ8‡³Ôß.
