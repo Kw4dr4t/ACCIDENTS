@@ -43,3 +43,7 @@ License.md,1/f/1f0b60376db6c56b95e1fa77ea631d2825e4dc9b
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 J
 traffic_accidents_2014.csv,e/1/e16597e32237ab8c5d614f9d0f5b9a2d1ce48df3
+<
+heatmap.html,2/d/2d6cc5b1364b782d338556edaea3fda48a1f4c80
+9
+	towns.csv,7/4/74a4ff4bb24f6f3f2dae30b1a515df1751d82b4b
