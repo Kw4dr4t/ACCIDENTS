@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ACCIDENTS.iml" filepath="$PROJECT_DIR$/.idea/ACCIDENTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pandas_learning/.idea/Pandas_learning.iml" filepath="$PROJECT_DIR$/../Pandas_learning/.idea/Pandas_learning.iml" />
     </modules>
   </component>
 </project>
