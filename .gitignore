@@ -1,4 +1,3 @@
 # Project exclude paths
 /venv/
-/~$Wypadki drogowe 2014r..xlsx
-/materials/
+~$*.xlsx
