@@ -1,4 +1,4 @@
 # Project exclude paths
 /venv/
-/accident_data/
+/accident_data2/
 ~$*.xlsx
