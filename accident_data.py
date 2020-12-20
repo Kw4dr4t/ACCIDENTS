@@ -2,7 +2,7 @@ import folium
 import pandas as pd
 from folium.plugins import HeatMap
 
-df1 = pd.read_csv('traffic_accidents_2014.csv', header=0)
+df1 = pd.read_csv('all.csv', header=0)
 print(df1)
 df1.head()
 # convert date for pandas
